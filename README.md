@@ -96,7 +96,6 @@
 # 📬 Get in Touch:
 - Email: **[raushforlife@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 - LinkedIn: **[My Profile](https://www.linkedin.com/in/raushan-kumar-b2a960216/)**
-- Portfolio: **[My Website](/)**
 
 
 <br />
