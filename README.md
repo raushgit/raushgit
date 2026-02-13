@@ -84,7 +84,7 @@
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode,pycharm,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode&perline=8" />
 </div>
 
 <br />
