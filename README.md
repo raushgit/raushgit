@@ -5,12 +5,12 @@
 
 <br />
 
-<div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Raush, a passionate full-stack developer and future AL/ML engineer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building apps engines in Java, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
+<div align="center"> <h3>Welcome to My Coding Journey </h3> <p>I'm Raush, a passionate full-stack developer and future AL/ML engineer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building apps engines in Java, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
 
-- 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development**. I'm also diving into **Artificial Intelligence** and **Machine Learing** to broaden my expertise in Machine Learning.  
-- ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
+- I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development**. I'm also diving into **Artificial Intelligence** and **Machine Learing** to broaden my expertise in Machine Learning.  
+- Check out my top repositories! Feel free to contribute or leave a star your feedback means a lot to me.
 
-# 💪 Skills Overview:
+# Skills Overview:
 
 ## Web Development:
 
@@ -89,11 +89,11 @@
 
 <br />
 
-# 🌟 What I'm Looking For:
+# What I'm Looking For:
 - **Opportunity Alert**: I'm looking for **impactful and interesting projects** to work on in other to gain **connections and hands-on experience**.  
 
 
-# 📬 Get in Touch:
+# Get in Touch:
 - Email: **[raushforlife@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 - LinkedIn: **[My Profile](https://www.linkedin.com/in/raushan-kumar-b2a960216/)**
 - My Website: **https://raushdev.in**
